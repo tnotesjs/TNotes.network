@@ -2,8 +2,10 @@
 layout: home
 
 hero:
-  name: 'network'
+  name: '网络笔记'
   image:
     src: /logo.png
     alt: TNotes logo
 ---
+
+<SidebarCard pending />

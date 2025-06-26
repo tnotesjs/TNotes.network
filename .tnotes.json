@@ -18,9 +18,9 @@
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--network.svg"
     },
-    "title": "网络笔记",
+    "title": "network",
     "completed_notes_count": 0,
-    "details": "待搬运语雀上的笔记。（早期记录了一些 http、tcp 相关的内容）",
+    "details": "网络笔记",
     "link": "https://tdahuyou.github.io/TNotes.network/"
   },
   "port": 9445,

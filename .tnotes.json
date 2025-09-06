@@ -1,5 +1,5 @@
 {
-  "author": "Tdahuyou",
+  "author": "tnotesjs",
   "repoName": "TNotes.network",
   "keywords": ["TNotes.network"],
   "ignore_dirs": [
@@ -19,7 +19,7 @@
     "title": "network",
     "completed_notes_count": 0,
     "details": "网络笔记",
-    "link": "https://tdahuyou.github.io/TNotes.network/",
+    "link": "https://tnotesjs.github.io/TNotes.network/",
     "created_at": 1746575572000,
     "updated_at": 1757163550544,
     "days_since_birth": 9445
@@ -36,7 +36,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tdahuyou.github.io/notes"
+      "link": "https://tnotesjs.github.io/notes"
     },
     {
       "text": "📂 TNotes.yuque",

@@ -13,7 +13,7 @@
     "demos",
     "assets"
   ],
-  "rootSidebarDir": "../_/sidebars",
+  "rootSidebarDir": "../TNotes/sidebars",
   "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--network.svg"
@@ -23,7 +23,7 @@
     "details": "网络笔记",
     "link": "https://tdahuyou.github.io/TNotes.network/",
     "created_at": 1746575572000,
-    "updated_at": 1754494584508,
+    "updated_at": 1757163550544,
     "days_since_birth": 9445
   },
   "port": 9445,
@@ -62,7 +62,7 @@
     },
     {
       "ariaLabel": "TNotes.network github 仓库链接",
-      "link": "https://github.com/Tdahuyou/TNotes.network",
+      "link": "https://github.com/tnotesjs/TNotes.network",
       "icon": "github"
     }
   ],

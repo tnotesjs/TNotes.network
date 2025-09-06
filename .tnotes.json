@@ -1,7 +1,9 @@
 {
   "author": "tnotesjs",
   "repoName": "TNotes.network",
-  "keywords": ["TNotes.network"],
+  "keywords": [
+    "TNotes.network"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -21,7 +23,7 @@
     "details": "网络笔记",
     "link": "https://tnotesjs.github.io/TNotes.network/",
     "created_at": 1746575572000,
-    "updated_at": 1757163550544,
+    "updated_at": 1757172134119,
     "days_since_birth": 9445
   },
   "port": 9445,

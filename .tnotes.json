@@ -19,11 +19,20 @@
       "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--network.svg"
     },
     "title": "network",
-    "completed_notes_count": 0,
+    "completed_notes_count": {
+      "25.05": 0,
+      "25.06": 0,
+      "25.07": 0,
+      "25.08": 0,
+      "25.09": 0,
+      "25.10": 0,
+      "25.11": 0,
+      "25.12": 0
+    },
     "details": "网络笔记",
     "link": "https://tnotesjs.github.io/TNotes.network/",
     "created_at": 1746575572000,
-    "updated_at": 1762780409420,
+    "updated_at": 1764548505771,
     "days_since_birth": 9445
   },
   "port": 9445,

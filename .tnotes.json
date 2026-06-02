@@ -31,13 +31,14 @@
       "26.01": 0,
       "26.02": 0,
       "26.03": 0,
-      "26.04": 0
+      "26.04": 0,
+      "26.06": 0
     },
     "details": "网络笔记",
     "link": "https://tnotesjs.github.io/TNotes.network/",
     "created_at": 1746575572000,
-    "updated_at": 1775000920000,
-    "days_since_birth": 9774
+    "updated_at": 1780377097000,
+    "days_since_birth": 9836
   },
   "port": 9445,
   "menuItems": [

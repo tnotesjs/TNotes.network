@@ -3,7 +3,7 @@
   "name": "TNotes.network",
   "description": "网络笔记",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--network.svg"
+    "src": "../assets/kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.network",
   "port": 9445,
